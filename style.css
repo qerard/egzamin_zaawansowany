@@ -1,0 +1,36 @@
+html {
+    margin: 3em;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Playfair Display', serif;
+    letter-spacing: 0.1em;
+    color: aliceblue;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(21, 21, 21);
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: justify;
+}
+
+img {
+    width: 30%;
+}
+
+div {
+    display: flex;
+    justify-content: flex-end;
+    padding: 7em 0 7em 0;
+}
+
+p {
+    padding: 3em;
+    margin: 0.5em;
+    text-align: justify;
+}
